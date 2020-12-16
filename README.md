@@ -21,5 +21,12 @@
 ### Languages and Tools:
 
 
+ <h1>Coding Profile</h1>
+ <a href="https://www.hackerrank.com/shubhin151"><img src="logo/github-logo.png" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile"><img src="logo/gfg.png" width="40"></a>
+ <a href="https://github.com/shubh-151/"><img src="logo/github-logo.png" width="40" /></a>
+
+
+
 
 
