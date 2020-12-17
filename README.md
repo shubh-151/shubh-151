@@ -15,7 +15,7 @@
 <a href="https://github.com/shubh-151/"><img src="logo/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/shubham.shukla.52035772/"><img src="logo/facebook.png" width="40" /></a>
 <a href="https://twitter.com/SHUBHAM90411190"><img src="logo/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/shubhin1511/"><img src="logo/instagram.png" width="40" /></a>
+<a href="https://www.instagram.com/shubhin1511/"><img src="file:///C:/Users/LENOVO/Downloads/instagram.svg" width="40" /></a>
 <br>
 
 <h1>Languages and Tools:</h1>
