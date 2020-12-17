@@ -19,6 +19,13 @@
 <br>
 
 <h1>Languages and Tools:</h1>
+<h2>Programming Langauge:-</h2>
+<ul>
+            <li>C/C++</li>
+            <li>Core Java</li>
+          
+</ul>
+
 
 
  <h1>Coding Profile</h1>
