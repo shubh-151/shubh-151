@@ -14,8 +14,8 @@
 <a href="https://www.linkedin.com/in/shubhin151/"><img src="https://media.licdn.com/dms/image/C510BAQEzckjsySdXVw/company-logo_100_100/0?e=2159024400&v=beta&t=L0i_bLOuW3liVxqMGWTTLFcfA7g9j8VAWtg88UfR2b8" width="40" /></a>
 <a href="https://github.com/shubh-151/"><img src="https://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2019/04/github.jpg" width="40" /></a>
 <a href="https://www.facebook.com/shubham.shukla.52035772/"><img src="https://play-lh.googleusercontent.com/9s-9zONYk4NZvLlHVMIF5cGCzrx7PjZYQ3uow5P8Rj2Mt_XHWygV3gOt75_iI1YtTg" width="40" /></a>
-<a href="https://twitter.com/SHUBHAM90411190"><img src="https://serveroutagestatus.com/wp-content/uploads/2020/02/twitter_logo.png" width="40" /></a>
-<a href="https://www.instagram.com/shubhin1511/"><img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/start_a_live_video_on_Instagra_1200x768.jpeg?.hbTFDtm_BTrfu1VhIVfvhvJHwFii9pm&size=770:433" width="40" /></a>
+<a href="https://twitter.com/SHUBHAM90411190"><img src="https://www.buckinghamcovers.com/uploads/images/twitter_PNG34.png" width="40" /></a>
+<a href="https://www.instagram.com/shubhin1511/"><img src="https://store-images.s-microsoft.com/image/apps.58521.13510798887167234.713cc0e4-e4a7-4f7c-8cde-9c6a53872b1d.539a5fdf-76a3-486f-bb0f-d2dce82923cc?mode=scale&q=90&h=200&w=200&background=%230078D7" width="40" /></a>
 <br>
 
 <h1>Languages and Tools:</h1>
