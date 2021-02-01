@@ -21,7 +21,7 @@
 <h1>Languages and Tools:</h1>
 <h2>Programming Langauge:-</h2>
 <ul>
-            <li>C/C++</li>
+            <li>C</li>
             <li>Core Java</li>
           
 </ul>
