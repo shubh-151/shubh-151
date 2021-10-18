@@ -19,10 +19,18 @@
 <br>
 
 <h1>Languages and Tools:</h1>
+ <ul>           
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Spring Boot Tool</li>
+ </ul>
 <h2>Programming Langauge:-</h2>
 <ul>
             <li>C</li>
             <li>Core Java</li>
+            
+                       
           
 </ul>
 
