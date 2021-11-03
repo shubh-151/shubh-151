@@ -23,7 +23,7 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
-            <li>Spring Boot Tool</li>
+            <li>Spring Tool Suite</li>
  </ul>
 <h2>Programming Langauge:-</h2>
 <ul>
