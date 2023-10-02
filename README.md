@@ -11,8 +11,10 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listing melody and play guitar.
 <h1>Languages and Tools:</h1>
- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
  
+
+ ![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+
            
 <h2>Programming Langauge:-</h2>
 <ul>
