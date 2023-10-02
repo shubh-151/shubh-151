@@ -1,7 +1,8 @@
 <h1> Hi there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
 <a href="https://github.com/shubh-151/"></a>
-<img src="https://komarev.com/ghpvc/?username=shubh-151">        
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img src="https://komarev.com/ghpvc/?username=shubh-151">        
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
