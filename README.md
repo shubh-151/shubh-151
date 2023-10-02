@@ -3,7 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://komarev.com/ghpvc/?username=shubh-151">        
 
-- 🌱 I’m currently learning **Node, Express & Mongo**  
+- 🌱 I’m currently learning **Node, Express & Mongo**
+- 🔭 I’m currently working on my portfolio.
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about **JavaScript & ReactJS**
 - 🥅 2023 Goals: Contribute more to Open Source projects
