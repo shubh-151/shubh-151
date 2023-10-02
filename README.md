@@ -11,22 +11,16 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listing melody and play guitar.
 <h1>Languages and Tools:</h1>
- 
 
- ![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux&labelColor=%23764ABC)
+![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5&logoColor=black&labelColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS-green?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue)
+
+
 
            
-<h2>Programming Langauge:-</h2>
-<ul>
-            <li>Core Java</li>     
-                       
-          
-</ul>
-<h2>Scripting Langauge:-</h2>
-<ul>
-            <li>Java Script</li>
-</ul>
-
 
 
  <h1>Coding Profile</h1>
