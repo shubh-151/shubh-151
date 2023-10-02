@@ -7,11 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about **JavaScript & ReactJS**
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listing melody and play guitar...
-- 🔭 I’m currently working on [30-Days-Of-DevOps](https://github.com/jaiswaladi246/30-Days-Of-DevOps)
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/shubh-151)
-
-  
+- ⚡ Fun fact: I love to listing melody and play guitar.
+- 👨‍💻 All of my projects are available at [https://github.com/shubh-151](https://github.com/shubh-151)  
 
 - 📫 How to reach me **shubhin151@gmail.com**
 
