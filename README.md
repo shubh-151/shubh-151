@@ -35,7 +35,7 @@
 
 
 
-<h1>My contribution</h1>
+<h1>My Contribution</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-151&show_icons=true&locale=en" alt="shubh-151" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-151&show_icons=true&locale=en&layout=compact" alt="shubh-151" /></p>
