@@ -24,7 +24,13 @@
 ![Static Badge](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux&labelColor=%23764ABC)
 ![Static Badge](https://img.shields.io/badge/html5-green?style=for-the-badge&logo=html5&logoColor=white&labelColor=%237952B3)
 ![Static Badge](https://img.shields.io/badge/css3-green?style=for-the-badge&logo=css3&logoColor=white&labelColor=%237952B3)
-![Static Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3)          
+![Static Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/express-green?style=for-the-badge&logo=express&logoColor=white&labelColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%237952B3)
+
+
+
 
 
  <h1>Coding Profile</h1>
