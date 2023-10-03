@@ -19,10 +19,10 @@
   
 <h1>Languages and Tools:</h1>
 
-![Static Badge](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Reactjs-green?style=for-the-badge&logo=react&logoColor=white&labelColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%237952B3)
 ![Static Badge](https://img.shields.io/badge/Redux-blue?style=for-the-badge&logo=Redux&labelColor=%23764ABC)
-![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5&logoColor=black&labelColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/html5-green?style=for-the-badge&logo=html5&logoColor=white&labelColor=%237952B3)
 ![Static Badge](https://img.shields.io/badge/CSS-green?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3)          
 
