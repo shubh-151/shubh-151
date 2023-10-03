@@ -31,6 +31,15 @@
  <a href="https://www.hackerrank.com/shubhin151"><img src="https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40"></a>
 </br>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-151&show_icons=true&locale=en&layout=compact" alt="shubh-151" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-151&show_icons=true&locale=en" alt="shubh-151" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-151&" alt="shubh-151" /></p>
+
  
 
 
