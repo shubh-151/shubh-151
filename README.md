@@ -35,7 +35,7 @@
 
  <h1>Coding Profile</h1>
  <a href="https://www.hackerrank.com/shubhin151"><img src="https://info.hackerrank.com/rs/487-WAY-049/images/Podcast-ChannelCover-Final.jpg" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40"></a>
+ <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40">/a>
 </br>
 
 
