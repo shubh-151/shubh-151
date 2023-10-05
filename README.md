@@ -19,6 +19,9 @@
 
 
 <h1>Connect with me:</h1>
+
+![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&link=left)
+
   
 <h1>Languages and Tools:</h1>
 
