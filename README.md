@@ -28,7 +28,7 @@
 <h1>Coding Profile</h1>
 
  <a href="https://www.hackerrank.com/shubhin151">![Static Badge](https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=%2300EA64)</a>
- <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="40"></a>
+ <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile">![Static Badge](https://img.shields.io/badge/geeksforgeeks-%232F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=%232F8D46)</a>
 
 
 
