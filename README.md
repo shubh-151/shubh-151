@@ -20,7 +20,7 @@
 
 <h1>Connect with me:</h1>
 
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&link=left)
+<a href="https://www.linkedin.com/in/shubhin151/">![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&link=left)</a>
 ![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335)
 ![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=%23E4405F)
 ![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=%2326A5E4)
