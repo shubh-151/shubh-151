@@ -29,6 +29,7 @@
 
  <a href="https://www.hackerrank.com/shubhin151">![Static Badge](https://img.shields.io/badge/hackerrank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=%2300EA64)</a>
  <a href="https://auth.geeksforgeeks.org/user/shubhin151/profile">![Static Badge](https://img.shields.io/badge/geeksforgeeks-%232F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=%232F8D46)</a>
+ <a href="https://leetcode.com/shubhin151/">![Static Badge](https://img.shields.io/badge/leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=%23FFA116)</a>
 
 
 
