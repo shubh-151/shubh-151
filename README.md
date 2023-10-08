@@ -37,7 +37,7 @@
   
 <h1>Languages and Tools:</h1>
 
-![Static Badge](https://img.shields.io/badge/Reactjs-green?style=for-the-badge&logo=react&logoColor=white&labelColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/html5-green?style=for-the-badge&logo=html5&logoColor=white&labelColor=%237952B3)
 ![Static Badge](https://img.shields.io/badge/css3-green?style=for-the-badge&logo=css3&logoColor=white&labelColor=%237952B3)
