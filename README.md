@@ -58,11 +58,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-151&show_icons=true&locale=en&layout=compact" alt="shubh-151" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh-151&" alt="shubh-151" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-151&show_icons=true&locale=en" alt="shubh-151" /></p>
 
 
 
