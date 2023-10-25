@@ -56,12 +56,9 @@
 
 <h1>My Contribution</h1>
 
-[![](https://raw.githubusercontent.com/shubh-151/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/shubh-151/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/shubh-151/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/shubh-151/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubh-151&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh-151&theme=aura)
 
-[![](https://raw.githubusercontent.com/shubh-151/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/shubh-151/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-151&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh-151&theme=aura&utcOffset=8)
 
-[![](https://raw.githubusercontent.com/shubh-151/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/shubh-151/github-profile-summary-cards) 
-
-[![](https://raw.githubusercontent.com/shubh-151/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/shubh-151/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-151&theme=aura)
