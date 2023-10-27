@@ -65,9 +65,9 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-151&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-151&theme=yeblu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubh-151&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh-151&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubh-151&theme=yeblu)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh-151&theme=yeblu)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh-151&theme=default&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-151&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh-151&theme=yeblu&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-151&theme=yeblu)
 
