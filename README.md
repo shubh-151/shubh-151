@@ -57,8 +57,10 @@
 <h1>My Contribution</h1>
 
 
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubh-151&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh-151&theme=aura)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-151&theme=aura)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh-151&theme=aura&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-151&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-151&theme=default)
