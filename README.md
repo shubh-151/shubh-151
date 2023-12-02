@@ -2,7 +2,7 @@
 ![232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336](https://github.com/shubh-151/shubh-151/assets/60954538/c630ecfb-8e67-413b-81b4-baa56af040d9)
 
 
-<h1> Hii 
+<h1> Hey 
  there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
 <a href="https://github.com/shubh-151/"></a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
