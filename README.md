@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://komarev.com/ghpvc/?username=shubh-151">        
 
-- 🌱 I’m currently learning **NodeJS, Express & MongoDB**.
+- 🌱 I am currently learning **NodeJS, Express & MongoDB**.
 - 💬 Ask me about **JavaScript & ReactJS**.
 - 📫 How to reach me **shubhin151@gmail.com**.
 - 🔭 I’m currently working on my portfolio.
