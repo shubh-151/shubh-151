@@ -1,6 +1,7 @@
 
-![232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336](https://github.com/shubh-151/shubh-151/assets/60954538/c630ecfb-8e67-413b-81b4-baa56af040d9)
 
+
+![shubham](https://github.com/user-attachments/assets/b2ad552e-e647-4739-8ed8-4bd4061dc952)
 
 <h1> Hii
  there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
