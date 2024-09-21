@@ -3,7 +3,7 @@
 
 ![shubham](https://github.com/user-attachments/assets/b2ad552e-e647-4739-8ed8-4bd4061dc952)
 
-<h1> Hii kolla khaai l
+<h1> Hii
  there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
 <a href="https://github.com/shubh-151/"></a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
