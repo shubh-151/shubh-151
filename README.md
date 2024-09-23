@@ -1,7 +1,5 @@
 
-
-
-![shubham](https://github.com/user-attachments/assets/b2ad552e-e647-4739-8ed8-4bd4061dc952)
+![20240921_071904_0000](https://github.com/user-attachments/assets/e377a195-a21c-42a6-9542-c986c9b4e730)
 
 <h1> Hii
  there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
