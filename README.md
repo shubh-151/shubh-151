@@ -12,7 +12,7 @@
 - 📫 How to reach me **shubhin151@gmail.com**.
 - 🔭 I’m currently working on my portfolio.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listing melody and play guitar.
 - 📫 You can reach me on LinkedIN **shubhin151**.
 
