@@ -2,7 +2,7 @@
 ![20240921_071904_0000](https://github.com/user-attachments/assets/e377a195-a21c-42a6-9542-c986c9b4e730)
 
 <h1> Hii
- there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
+ there I'm <a href="https://www.linkedin.com/in/shubhin151/">Shubham Shukla </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
 <a href="https://github.com/shubh-151/"></a>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://komarev.com/ghpvc/?username=shubh-151">        
