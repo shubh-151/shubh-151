@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://komarev.com/ghpvc/?username=shubh-151">        
 
-- 🌱 I am currently learning **springboot, HLD, LLD**.
+- 🌱 I am currently learning **python, django,HLD, LLD**.
 - 💬 Ask me about **JavaScript, ReactJS, NodeJS, Express & MongoDB**.
 - 📫 How to reach me **shubhin151@gmail.com**.
 - 🔭 I’m currently working on my portfolio.
